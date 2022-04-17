@@ -7,7 +7,7 @@
 </p>
 
 
-I am an Embedded Software Engineer at MRS Technologies. Graduated from Air university Islamabad with a B.Eng. in Mechatronics Engineering, having 1.5 years of experience in embedded systems, IoT, PCB designing, and CAD modeling. I also develop .NET applications.
+I am an Embedded Software Engineer at MRS Technologies. Graduated from Air university Islamabad with a B.Eng. in Mechatronics, having 1.5 years of experience in embedded systems, IoT, PCB designing, and CAD modeling. I also develop .NET applications.
 
 
 | Stuff  | Also.... stuff? |
