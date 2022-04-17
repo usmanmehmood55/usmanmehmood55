@@ -1,16 +1,15 @@
-### Hi there 👋
+![](header.png)
 
-<!--
-**usmanmehmood55/usmanmehmood55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Usman Mehmood 😃</h1>
 
-Here are some ideas to get you started:
+<p align='center'>
+<a href="https://www.linkedin.com/in/usmanmehmood55/"><img height="30" src="linkedin.png"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am an Embedded Software Engineer at MRS Technologies. Graduated from Air university Islamabad with a B.Eng. in Mechatronics Engineering, having 1.5 years of experience in embedded systems, IoT, PCB designing, and CAD modeling. I also develop .NET applications.
+
+
+| GitHub Stats | Most Used Languages |
+| ------------- | ------------- |
+| ![Usman Mehmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmehmood55&show_icons=true&theme=merko)  | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmehmood55&theme=merko) |
