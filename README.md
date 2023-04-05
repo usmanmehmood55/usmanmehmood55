@@ -1,12 +1,16 @@
 ![](header.png)
 
-<h1 align="center">Hi, I'm Usman Mehmood 😃</h1>
+<h1 align="center">Hi, I'm Usman 😃</h1>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/usmanmehmood55/"><img height="30" src="linkedin.png"></a>
 </p>
 
-I am an Embedded Software Engineer. Graduated from [Air University Islamabad](https://www.au.edu.pk/) with a B.Eng. in Mechatronics, having 2+ years of experience in embedded systems, IoT, PCB designing, and CAD modeling. I also develop .NET WPF and backend applications.
+I'm an Embedded Software Engineer. Graduated from [Air University Islamabad](https://www.au.edu.pk/) with bachelors in Mechatronics
+Engineering.
+
+I've got 3+ years of experience in embedded software, IoT systems, PCB design, and CAD design. I also occasionally develop .NET WPF
+and backend applications.
 
 <p align='center'>
 
