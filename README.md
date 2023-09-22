@@ -6,22 +6,60 @@
 <a href="https://www.linkedin.com/in/usmanmehmood55/"><img height="30" src="linkedin.png"></a>
 </p>
 
-I'm an Embedded Software Engineer. Graduated from [Air University Islamabad](https://www.au.edu.pk/) with bachelors in Mechatronics
-Engineering.
+I'm a mechatronics engineer by heart, and an embedded software engineer by
+profession. Currently working on safety critical applications, making reliable
+and safe devices.
 
-I've got 3+ years of experience in embedded software, IoT systems, PCB design, and CAD design. I also occasionally develop .NET WPF
-and backend applications.
+I've got 5 years of experience in embedded software, IoT systems, PCB design,
+and CAD design. I also develop .NET desktop and backend applications. And
+recently I have started writing web apps in JavaScript as well.
 
-<p align='center'>
+I graduated from [Air University Islamabad](https://www.au.edu.pk/) with
+a bachelor's degree in Mechatronics Engineering.
 
-| Stuff  | Also.... stuff? |
-| --- | --- |
-| Languages | ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)|
-| Frameworks  | ![](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
-| OS I use  | ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white) |
+```c
+summary_t professional_summary(person_t me)
+{
+    return (summary_t)
+    {
+        .person              = me,
 
+        .embedded_software   =
+        {
+            .time            = (years_t)3,
+            .catagories      = { DRIVERS, LOW_POWER, THREAD, BLE, MESH, MOTOR_CTRL },
+            .processor_types = { ARM, RISC_V, XTENSA },
+            .frameworks      = { ESP_IDF, FREE_RTOS, NRF_CONNECT_SDK, ZEPHYR, LINUX },
+            .misra_compliant = true,
+            .test_driven     = true,
+            .documented      = EXCESSIVELY,
+            .languages_used  = { C, CSHARP },
+            .sometimes_used  = { CPP, RUST, JAVASCRIPT },
 
-| GitHub Stats | Most Used Languages |
-| ------------- | ------------- |
-| ![Usman Mehmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmehmood55&show_icons=true&theme=merko) | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmehmood55&theme=merko) |
-</p>
+            .is_python_used  = false,
+            .but_why_tho     = malloc(&NULL * -1 << UINT128_MAX),
+        },
+
+        .embedded_hardware   = 
+        {
+            .time            = (years_t)2,
+            .catagories      = { POWER, MOTOR_CTRL, AMPS, ENRGY_HARVST, WIRELESS },
+            .multilayer_pcbs = true,
+            .preferred_eda   = KICAD,
+        },
+
+        .mechanical_design   =
+        {
+            .time            = (years_t)2,
+            .catagories      = { ROBOT_CHASSIS, ENCLOSURES, SIMULATIONS, ANIMATIONS, RENDERING },
+            .preferred_cad   = { SOLIDWORKS, SW_VISUALIZE, KEYSHOT },
+            .wasted_skill    = 
+            {
+                MATHEMATICAL_MODELING, VIBRATION_ANALYSIS,
+                FLUID_ANALYSIS, CONTROL_SYSTEMS, ROBOTICS 
+            },
+            .regret          = true,
+        }
+    }
+}
+```
