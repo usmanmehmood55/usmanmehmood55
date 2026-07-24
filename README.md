@@ -22,7 +22,7 @@ summary_t professional_summary(person_t me)
 
         .embedded_software   =
         {
-            .time            = (years_t)5,
+            .time            = (years_t)6,
             .catagories      = { BAREMETAL, SECURE_BOOT, OTA, DRIVERS, BLE, MESH },
             .processor_types = { STM32, ESP32, NRF52, HILSCHER },
             .frameworks      = { ZEPHYR, FREE_RTOS, TWINCAT },
@@ -30,13 +30,13 @@ summary_t professional_summary(person_t me)
             .misra_compliant = true,
             .test_driven     = true,
             .documented      = EXCESSIVELY,
-            .languages_used  = { C, CPP, CSHARP },
+            .languages_used  = { C, CPP, C_SHARP },
             .sometimes_used  = { RUST, JAVASCRIPT, DART },
         },
 
         .embedded_hardware   = 
         {
-            .time            = (years_t)3,
+            .time            = (years_t)4,
             .catagories      = { POWER, MOTOR_CTRL, AMPS, ENRGY_HARVST, WIRELESS },
             .multilayer_pcbs = true,
             .preferred_eda   = KICAD,
